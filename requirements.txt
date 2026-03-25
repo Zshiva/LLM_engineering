@@ -2,3 +2,4 @@ openai
 ipykernel
 beautifulsoup4
 ipywidgets
+requests
