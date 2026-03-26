@@ -3,3 +3,4 @@ ipykernel
 beautifulsoup4
 ipywidgets
 requests
+python-dotenv
