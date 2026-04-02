@@ -5,4 +5,4 @@ ipywidgets
 requests
 python-dotenv
 google-genai
-langchain-openai
+litellm
