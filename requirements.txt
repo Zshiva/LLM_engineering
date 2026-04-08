@@ -6,3 +6,4 @@ requests
 python-dotenv
 google-genai
 litellm
+gradio
